@@ -5,7 +5,22 @@
 :root {
   /** ======== Colors ====== **/
   /** ======== Color mode HSL (hue, saturation, lightness ====== **/
-  --first-color: #EEC759;
+  --first-color: #FFA5AB;
+  --title-color: #450920;
+  --text-color: #A53860;
+  --body-color: #EAF2EF;
+  --container-color: #fff;
+
+  /** ======== Font and Typography ====== **/
+  --body-font: "Outfit", sans-serif;
+  --h1-font-size: 2.25rem;
+  --h2-font-size:1.5rem;
+  --h3-font-size:1.25rem;
+  --normal-font-size:1rem;
+  --small-font-size:0.875rem;
+  --smaller-font-size:0.813rem;
+
+  /** ======== Font Weight ====== **/
   
 }
 
